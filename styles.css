@@ -1,5 +1,14 @@
+
 .text-platzi{
     color: #97c93e !important;
+}
+
+.btn-platzi{
+    background-color: #97c93e !important;
+    color: white;
+}
+.btn-platzi:hover{
+    background-color: #82ad36 !important;
 }
 
 #header img{
@@ -15,6 +24,7 @@
     position: relative;
 }
 #carousel .overlay {
+    padding-top: 150px;
     z-index: 1;
     position: absolute;
     top: 0;
@@ -25,9 +35,11 @@
     color: white;
 }
 
+
 .footer{
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
 .footer a{
     color: white;
+    text-decoration: none;
 }
