@@ -34,8 +34,28 @@
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
 }
-
-
+.badges{
+    text-align: right;
+    }
+ #bitcoin{
+    background-color: #F7931A;
+}
+#ether{
+    background-color: #3c3c3d;
+}
+#ia{
+    background-color: #4AC4FF;
+}
+#starup{
+    background-color: #8BC34A;
+}
+#place-time{
+    background-color:#343a40;
+    color: white;
+}
+#place-time img{
+    max-width: 100%;
+}
 .footer{
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
